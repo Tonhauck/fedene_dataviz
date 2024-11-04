@@ -207,7 +207,7 @@ export const data = {
     "Longueur totale": 573,
     "Nombre bâtiments raccordés": 3203,
     "Chaleur fatale - UVE": 488.7,
-    "Chaleur fatale - industrielle": "71.3,
+    "Chaleur fatale - industrielle": 71.3,
     "Géothermie": 0,
     "Biomasse": 645.4,
     "GOB": 35.9,
