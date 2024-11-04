@@ -159,7 +159,7 @@ export const data = {
     "Gaz naturel": 218.3,
     "Fiouls": 1.2,
     "Charbon": 0,
-    "Autres énergies fossiles": 2,3,
+    "Autres énergies fossiles": 2.3,
     "1ère EnR&R": 622.88,
     "2e EnR&R": 387.47,
     "3e EnR&R": 7.81,
